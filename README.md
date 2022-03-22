@@ -1,6 +1,4 @@
-# Simulateur_Drone_FPV
-Ce répertoire comprend les fichiers utiles à la création de mon simulateur de drone FPV en LUA.
-
+# Radio Controller To Game Controller
 
 
 Analyse HID QX7
@@ -20,3 +18,4 @@ Ainsi on retrouve obtient une Array contenant ses positions :
 
 Données manquantes : 0, 1, 2, 17, 18
 
+![explication](https://user-images.githubusercontent.com/52258801/159595167-7f32da10-5f2e-4729-8006-35ef059dc5aa.jpg)
